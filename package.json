@@ -1,0 +1,24 @@
+{
+  "name": "js-challenges-dsa",
+  "description": "learning data structures &amp; algorithms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apasin-josc/JS-CHALLENGES-DSA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Apasin-josc/JS-CHALLENGES-DSA/issues"
+  },
+  "homepage": "https://github.com/Apasin-josc/JS-CHALLENGES-DSA#readme"
+}
